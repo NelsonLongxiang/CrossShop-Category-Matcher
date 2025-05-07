@@ -1,0 +1,14 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+loguru
+python-multipart==0.0.20
+transformers
+sentence-transformers
+scikit-learn
+protobuf
+tiktoken
+tokenizers
+sentencepiece
+
+
+
